@@ -1,0 +1,49 @@
+product_id,product_name,category,list_price,unit_cost
+P001,House Blend 250g,Coffee,13.0,5.05
+P002,Ethiopia Yirgacheffe 250g,Coffee,17.0,7.86
+P003,Colombia Huila 250g,Coffee,15.0,6.52
+P004,Brazil Santos 250g,Coffee,14.0,5.87
+P005,Kenya AA 250g,Coffee,18.0,7.5
+P006,Sumatra Mandheling 250g,Coffee,16.0,7.78
+P007,Decaf Swiss Water 250g,Coffee,16.0,8.08
+P008,Espresso Roast 250g,Coffee,15.0,5.83
+P009,Guatemala Antigua 250g,Coffee,16.0,7.43
+P010,Costa Rica Tarrazu 250g,Coffee,17.0,6.93
+P011,House Blend 1kg,Coffee,42.0,21.62
+P012,Espresso Roast 1kg,Coffee,45.0,22.82
+P013,Cold Brew Blend 500g,Coffee,24.0,11.08
+P014,Single Origin Sampler,Coffee,29.0,13.93
+P015,Earl Grey 100g,Tea,9.0,3.98
+P016,English Breakfast 100g,Tea,9.0,4.43
+P017,Jasmine Green 100g,Tea,11.0,4.75
+P018,Sencha 100g,Tea,12.0,4.97
+P019,Matcha Ceremonial 30g,Tea,28.0,11.32
+P020,Chamomile 50g,Tea,8.0,3.17
+P021,Peppermint 50g,Tea,8.0,3.55
+P022,Oolong Tieguanyin 100g,Tea,16.0,6.86
+P023,Masala Chai 100g,Tea,10.0,4.66
+P024,White Peony 50g,Tea,15.0,5.43
+P025,Rooibos Vanilla 100g,Tea,10.0,4.32
+P026,Tea Sampler Box,Tea,26.0,10.88
+P027,Manual Burr Grinder,Equipment,39.0,22.59
+P028,Electric Burr Grinder,Equipment,89.0,56.89
+P029,Gooseneck Kettle,Equipment,59.0,36.3
+P030,Pour-Over Dripper,Equipment,24.0,14.28
+P031,French Press 1L,Equipment,34.0,19.77
+P032,Aeropress-Style Brewer,Equipment,36.0,24.52
+P033,Compact Espresso Machine,Equipment,179.0,119.86
+P034,Digital Coffee Scale,Equipment,29.0,18.59
+P035,Milk Frother,Equipment,32.0,19.26
+P036,Moka Pot 6-Cup,Equipment,31.0,21.45
+P037,Paper Filters 100pk,Accessories,7.0,3.15
+P038,Ceramic Mug 350ml,Accessories,14.0,6.01
+P039,Travel Tumbler,Accessories,25.0,12.6
+P040,Glass Server 600ml,Accessories,22.0,9.04
+P041,Tea Infuser,Accessories,9.0,4.24
+P042,Grinder Cleaning Brush,Accessories,6.0,2.46
+P043,Descaler Pack,Accessories,12.0,4.82
+P044,Airtight Canister,Accessories,19.0,8.97
+P045,Cold Brew Bottle,Accessories,21.0,8.33
+P046,Tea Strainer Set,Accessories,11.0,4.83
+P047,Cupping Spoon,Accessories,8.0,3.62
+P048,Storage Tin,Accessories,13.0,5.07
